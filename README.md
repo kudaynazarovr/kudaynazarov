@@ -1,4 +1,4 @@
-# # 👋 Привет, я  Kudaynazarov Ramazan Aynazarovich!
+👋 Привет, я  Kudaynazarov Ramazan Aynazarovich!
 
 💻 Frontend Developer
 🚀 Изучаю React и современные технологии
@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠 Технологии и инструменты
+🛠 Технологии и инструменты
 
 * ⚛️ React
 * ▲ Next.js
@@ -19,12 +19,12 @@
 * https://idea-uz-rust.vercel.app/
 * [regal-cheesecake-e81805.netlify.app](https://regal-cheesecake-e81805.netlify.app/)
 
-## 📫 Связь со мной
+📫 Связь со мной
 
 * Telegram: @Kudaynazarov_Ramazan
 * Email: kudaynazarov1010@gmail.com
 
-## 🚀 Обо мне
+🚀 Обо мне
 
 - 💻 Создаю современные интерфейсы  
 - ⚡ Изучаю React.js и оптимизацию  
